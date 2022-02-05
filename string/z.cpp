@@ -13,3 +13,9 @@ vector<int> z_function(string s) {
     }
     return z;
 }
+
+/**
+ * search the substring
+ * number of distinct substring in a string
+ * string compression
+ */

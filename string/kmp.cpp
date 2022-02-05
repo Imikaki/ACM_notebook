@@ -15,3 +15,11 @@ vector<int> prefix_function(string s) {
     }
     return pi;
 }
+
+/**
+Application:
+    - search for a substring in a string
+    - The number of different substring in a string
+    - Compress the string
+    - Building an automaton
+*/
